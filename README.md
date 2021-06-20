@@ -1,4 +1,5 @@
-# Konichiwa 👋
+<h1 align="center">Hi 👋, I'm Veer Sandhu</h1>
+<h3 align="center">An inovative Machine Learning Engineer from the GTA</h3>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/86/dc/27/86dc270ab21a49bacbcc79211db3c153.jpg">
